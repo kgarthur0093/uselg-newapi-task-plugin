@@ -383,7 +383,7 @@
         {
           "version": "1.0.0",
           "path": "plugins/tasks/uselg-interface/1.0.0/plugin.js",
-          "sha256": "94377ae3f04f1da2026cc83c401ad732b9b6c915962f9c9370da8a660aeccbcb",
+          "sha256": "05c058563f65df090f9644af8ac4fae098e5270a96d32dbeb2865e925b385613",
           "minApiVersion": 1,
           "kind": "task",
           "allowedHosts": [
